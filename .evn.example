@@ -1,0 +1,19 @@
+# ╔═══════════════════════════════════════════════════╗
+# ║      RAJPOOT BOT MD — Configuration     ║
+# ╚═══════════════════════════════════════════════════╝
+
+# ─── CDN (Bot Owner se lo) ─────────────────
+CDN_URL=http://fi13.bot-hosting.cloud:21118
+CDN_TOKEN=paid
+CDN_SECRET=paid
+
+# ─── Tumhari Info ──────────────────────────
+OWNER_NAME=RAJPOOT BOT MD
+OWNER_NUMBER=923177104809
+BOT_NAME=RAJPOOT BOT MD
+
+# ─── Optional ──────────────────────────────
+TELEGRAM_BOT_TOKEN=
+OPENAI_API_KEY=
+APP_URL=https://tumhara-app-url.com
+PORT=3000
